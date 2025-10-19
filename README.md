@@ -81,12 +81,49 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - **Goal 1: Complete JavaScript fundamentals and build an interactive project by June 2026**
+        - Complete JavaScript courses on CodeSpace and Scrimba, to master core concepts such as DOM manipulation, functions, arrays, and API integration.
+        - Build at least one interactive web project that demonstrates dynamic functionality using JavaScript.
+        - Apply version control with Git/GitHub to track progress and showcase development history publicly.
+        - Seek feedback from online communities like Reddit r/Fronten or Twitter developers to identify improvement areas.
+    - **Resources/Support Needed:**
+        - Structured learning paths from Scrimba and CodeSpace.
+        - Access to free project APIs for data-driven projects.
+        - Peer or mentor feedback from online developer groups.
+
+    - **Goal 2: Design and publish an online portfolio by August 2026**
+        - Choose a modern tech stack for the portfolio (HTML, CSS, JavaScript, and optionally React once comfortable).
+        - Research and draw inspiration from developer portfolios that emphasize simplicity, accessibility, and clean UI/UX.
+        - Host the portfolio using GitHub Pages or Netlify for professional presentation.
+        - Continuously update the portfolio as new projects or certifications are completed.
+    - **Resources/Support Needed:**
+        - Tutorials or YouTube walkthroughs for portfolio design.
+        - Feedback from peers or online developer communities.
+        - A personalized domain name for a professional touch.
+
+    - **Goal 3: Build a professional front-end network by November 2025**
+        - Establish a consistent posting schedule on Twitter (X) and LinkedIn: 2–3 posts per week focusing on learning updates, sharing helpful resources and engagement with others' posts.
+        - Participate in community challenges and discussions.
+        - Identify at least two mentors or experienced developers to follow and learn from through observation and occasional outreach.
+
+    - **Goal 4: Complete CodeSpace and Scrimba front-end certification programs by December 2026**
+        - Set a study schedule (2-3 hours daily after work) dedicated to coursework and exercises.
+        - Apply concepts learned from each module by integrating them into small projects.
+        - Complete all required projects and upload them to your portfolio.
+        - Once certified, share achievements on LinkedIn and include badges/certificates on your portfolio.
+
 2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+
+    - **Goal: Secure a Junior Front-End Developer Role**
+        - Begin applying for internships, freelance projects, or open-source contributions by mid-2026 to gain practical experience.
+        - Tailor your CV and portfolio for front-end roles, emphasizing problem-solving, user-journey, and collaboration skills from customer service.
+        - Research companies with strong mentorship cultures for junior developers.
+
+    - **Goal: Develop Leadership and Soft Skills**
+        - Volunteer to lead small group projects during certification courses and challenges.
+        - Practice presentation skills by explaining projects in short video demos or blog posts.
+        - Seek opportunities to mentor others in online communities once confident in JavaScript and project building.
+        - Develop soft skills by reading leadership books, completing courses, attending leadership conferences, and seeking mentorship from current senior or lead developers.
 
 ### Part 5: Reflection on Challenges and Opportunities
 

@@ -50,7 +50,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Front-End Development aligns well with my **skills** (HTML/CSS and version control), **interests** (creative and technical problem-solving), and **values** (collaboration,communication and accountability).
-    - As areas for further exploration, I will focus on the following:
+    - As areas for further exploration to strengthen alignment, I will focus on the following:
         - Strengthening my JavaScript fundamentals to build dynamic and interactive user interfaces.
         - Developing a portfolio of projects that demonstrate both my technical progress and design capabilities.
         - Actively engaging with developer communities to exchange ideas, learn best practices, and stay informed about industry expectations.
@@ -59,8 +59,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - **Complete JavaScript fundamentals** and apply them by building and deploying at least one interactive project by June 2026.
+        - **Rationale:** Strengthens practical coding ability and demonstrates problem-solving skills through hands-on application.
+    - **Design and publish an online portfolio** showcasing completed projects, certifications, and skills by August 2026.
+        - **Rationale:** Serves as a professional showcase for potential employers and a record of growth.
+    - **Build a professional front-end focused network** by engaging on Twitter (X) and LinkedIn 2–3 times weekly by sharing learning progress, connecting with developers, and joining relevant discussions starting November 2025.
+        - **Rationale:** Expands visibility, builds connections, and opens doors for mentorship and job opportunities.
+    - **Complete CodeSpace and Scrimba front-end certification programs** by December 2026, and feature them in my portfolio.
+        - **Rationale:** Validates technical skills with industry-recognized credentials and demonstrates commitment to growth.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.

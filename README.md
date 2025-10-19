@@ -70,8 +70,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - **Secure a Junior Front-End Developer Role:**
+        Transition from customer service into a junior developer position by applying transferable skills such as understanding user needs and clear communication. This aligns with my interest in building user-focused, responsive web interfaces.
+    - **Develop Leadership and Soft Skills:**
+        Take opportunities to present work, mentor new team members, and lead small feature implementations to strengthen collaboration, communication, and leadership which are key skills for senior roles.
+    - **Learn Back-End Development:**
+        Gain foundational back-end knowledge (e.g., Node.js, Express, databases) to become a Full-Stack Developer, aligning with my curiosity and goal of understanding the full web development process.
 
 ### Part 4: Action Plan
 

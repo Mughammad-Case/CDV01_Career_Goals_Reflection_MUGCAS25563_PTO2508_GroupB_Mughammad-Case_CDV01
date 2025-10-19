@@ -25,8 +25,11 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - **Version Control:** Proficient in Git for version control and tracking changes.
+    - **HTML5:** Foundational understanding of HTML for structuring web content.
+    - **CSS3:** Layout techniques like Flexbox and CSS Grid, as well as visual effects like animations and transitions.
+    - **Skills To Develop:** Core understanding of JavaScript and experience working with CSS frameworks such as Tailwind and Bootstrap to build responsive user interfaces.
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.

@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Mughammad Case
+- **Date:** 19 October 2025
+- **Current Role/Position:** Customer Service Advisor
+- **Field of Interest:** Front-end Development
 
 ### Part 1: Self-Assessment Reflection
 

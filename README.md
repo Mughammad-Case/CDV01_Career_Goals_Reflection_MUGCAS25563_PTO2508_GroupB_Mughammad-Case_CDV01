@@ -59,7 +59,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - **Complete JavaScript fundamentals** and apply them by building and deploying at least one interactive project by June 2026.
+    - **Learn JavaScript fundamentals** and apply them by building and deploying at least one interactive project by June 2026.
         - **Rationale:** Strengthens practical coding ability and demonstrates problem-solving skills through hands-on application.
     - **Design and publish an online portfolio** showcasing completed projects, certifications, and skills by August 2026.
         - **Rationale:** Serves as a professional showcase for potential employers and a record of growth.

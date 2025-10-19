@@ -31,9 +31,13 @@ By completing this reflection, you will gain a clearer understanding of your car
     - **Skills To Develop:** Core understanding of JavaScript and experience working with CSS frameworks such as Tailwind and Bootstrap to build responsive user interfaces.
 
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    **Career Related Interests:**
+    - Front-End Development: Focusing on building responsive and accessible interfaces using HTML, CSS, and JavaScript.
+    - Creative Coding: Enjoy combining creative designs with clean, functional code to deliver attractive and maintainable user experiences.
+    **Values Important to Me in a Work Environment:**
+    - Communication: An environment where communication and feedback is shared clearly and directly.
+    - Accountability: Ownership and holding ourselves responsible for the work quality that is being delivered.
+    - Teamwork: A work environment where colleagues actively collaborate and support each other to meet expectations and common goals.
 
 ### Part 2: Career Exploration Insights
 

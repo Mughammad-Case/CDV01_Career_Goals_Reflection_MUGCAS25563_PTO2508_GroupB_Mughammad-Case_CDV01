@@ -43,12 +43,17 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - **Front-End Software Engineer/Developer:** Focused primarily on building the user interface part of websites or applications.
+    - **WebOps Content Specialist:** A role that requires a blend of technical knowledge (HTML/CSS) and content management/website deployment skills.
+    - **Website QA Specialist:** A role focused on testing and quality assurance, utilizing attention to detail and offer a good understanding of web standards, debugging and accessibility.
+    - **Particular Areas of Interest:** The Front-End Software Developer role is my main interest. As it demands HTML, CSS, and JavaScript/TypeScript skills that are my focus and strengths after this course. I see it as the most technically demanding and creative path, providing continuous learning and direct relevance to my core interests.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Front-End Development aligns well with my **skills** (HTML/CSS and version control), **interests** (creative and technical problem-solving), and **values** (collaboration,communication and accountability).
+    - As areas for further exploration, I will focus on the following:
+        - Strengthening my JavaScript fundamentals to build dynamic and interactive user interfaces.
+        - Developing a portfolio of projects that demonstrate both my technical progress and design capabilities.
+        - Actively engaging with developer communities to exchange ideas, learn best practices, and stay informed about industry expectations.
 
 ### Part 3: SMART Career Goals
 
